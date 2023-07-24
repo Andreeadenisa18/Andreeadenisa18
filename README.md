@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreeadenisa
-- 👀 I’m looking for a Software Engineer (low-level) with Linux >> https://www.bestjobs.eu/ro/loc-de-munca/software-engineer-automotive-linux-2
+- 👀 I’m looking for a Software Engineer (low-level) with Linux
 - 📫 You cand reach me at hr-romania@ausy.com 
 
 <!---
