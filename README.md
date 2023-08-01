@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andreeadenisa
+- 👋 Hi, I’m Andreea Marcu
 - 👀 I’m looking for a Software Engineer (low-level) with Linux
 - 📫 You cand reach me at hr-romania@ausy.com 
 
