@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Andreea Marcu
-- 👀 I’m looking for a Software Engineer (low-level) with Linux
+- 👀 I’m looking for an Embedded Software Developerers to join our AUSY team
 - 📫 You cand reach me at hr-romania@ausy.com 
 
-<!---
-Andreeadenisa18/Andreeadenisa18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+we also have a lot of open positions in the area of C Embedded Development in automotive area 
+low level development
+debugging
+integration
+Autosar
 --->
