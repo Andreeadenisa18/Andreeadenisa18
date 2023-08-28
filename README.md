@@ -8,3 +8,8 @@ debugging
 integration
 Autosar
 --->
+Our opportunities:
+https://www.bestjobs.eu/ro/loc-de-munca/embedded-software-developer-low-level-5
+https://www.bestjobs.eu/ro/loc-de-munca/system-engineer-137
+https://www.bestjobs.eu/ro/loc-de-munca/software-engineer-automotive-linux-3
+https://www.bestjobs.eu/ro/loc-de-munca/system-engineer-136
